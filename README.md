@@ -1,6 +1,6 @@
 # Machine_Learning-Coursera Projects
 
-These are all the programming exercises that I have completed in Andrew Ng's Stanford Machine Learning course that is available in Coursera (currently in-progress):
+These are all the programming exercises that I have completed in Andrew Ng's Stanford Machine Learning course that is available in Coursera:
 
 ## Linear Regression (01 linear_regression)
 Fitted a linear regression model using gradient descent optimization to a dataset correlating the population of an area and profit.
